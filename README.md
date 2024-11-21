@@ -120,7 +120,6 @@ public class User {
 
 - 🔍 Aprender mais sobre Spring Data JPA.  
 - 🛡️ Implementar autenticação e segurança com Spring Security.  
-- 📚 Expandir o projeto com testes unitários.
 
 ---
 
